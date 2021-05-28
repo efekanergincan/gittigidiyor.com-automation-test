@@ -119,3 +119,5 @@
 2021-01-30 12:48:09.812 INFO  TestCases:122 - Ürün sayfasındaki fiyat ile sepette yer alan ürün fiyatının doğruluğu karşılaştırıldı.
 2021-01-30 12:48:13.945 INFO  TestCases:134 - ürün sayısı artırıldı ve 2 adet olduğu kontrol edildi.
 2021-01-30 12:48:16.049 INFO  TestCases:147 - Sepet boşaltıldı ve test tamamlandı.
+2021-05-28 23:05:44.327 INFO  TestCases:29 - Anasayfaya giriş yapıldı.
+2021-05-28 23:05:56.141 INFO  TestCases:66 - Arama yapıldı.
